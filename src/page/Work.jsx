@@ -7,7 +7,7 @@ export default function Work() {
         <div className="max-w-[1000px] p-4  mx-auto flex flex-col justify-center w-full h-full">
             <div className="pb-8">
                 <p className="text-4xl font-bold border-b-4 border-pink-600 inline">Work</p>
-                <p className="py-4">// check out some of my recent work</p>
+                <p className="py-4"> check out some of my recent work</p>
             </div>
             <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
                 <div style={{backgroundImage: `url(${WorkImg})`}} className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
